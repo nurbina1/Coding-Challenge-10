@@ -20,7 +20,7 @@ function createProductTemplate(name, price) {
     `;
 }
 
-// Simulated product stock and pricing details for different sizes
+//Simulated product stock and pricing details for different sizes
 const productDetails = {
     small: { price: 25.00, inStock: true },
     medium: { price: 30.00, inStock: true }, 
